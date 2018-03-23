@@ -7,7 +7,7 @@ class Owner
     OWNERS.clear
   end
 
-  def self.all
+  def Owner.all
     OWNERS
   end
 
